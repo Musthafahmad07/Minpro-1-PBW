@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Portofolio Mus</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-12 col-lg-8 col-xl-6">
+          <div class="card mt-5">
+            <div class="row">
+              <div class="col-12 col-md-4">
+              </div>
+              <div class="col-12 col-md-8">
+                <div class="card-body py-5">
+                  <h5 class="card-title mb-3">Tentang Saya</h5>
+                  <p class="card-text">
+                    Nama saya Musthafa Ahmad Maulana, saya merupakan mahasiswa
+                    Sistem Informasi, Fakultas Teknik, Universitas Mulawarman. saya sekarang ada di semester 5. 
+                    cita cita saya adalah menjadi seorang wirausahawan yang kompeten dan berjaya.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex align-items-center" id="pengalaman">
+        <div class="row">
+          <div class="col-12">
+            <h3 class="mb-4">Pengalaman</h3>
+          </div>
+          <div class="col-12 col-lg-4 mb-3">
+            <div class="card h-100">
+              <div class="card-body">
+                <h5 class="card-title mb-3">Staf Information System Association (INFORSA)</h5>
+                <h6 class="card-subtitle mb-2 text-muted">
+                  Saya merupakan Staf Bureau Enterpreneurship Development selama 2 periode
+                </h6>
+                <p class="card-text">
+                  Saya pernah menjadi koordinator Keamanan di acara Malam Keakraban 2024.
+                </p>
+              </div>
+            </div>
+          </div>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    ></script>
+  </body>
+</html>
